@@ -3,4 +3,4 @@
 </a>
 
 <h1 align="center">.github</h1>
-<p align="center">GitHub organization-wide files</p>
+<p align="center">Soundise GitHub organization-wide files</p>
