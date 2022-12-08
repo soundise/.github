@@ -1,6 +1,8 @@
-<a href="https://soundise.com/" align="center">
-  <img src="https://assets.soundise.com/headers/header-github-dark.svg?" width="100%">
+<a href="https://soundise.com" align="center">
+  <img src="https://assets.soundise.com/headers/header-github-readme-dark.svg" width="100%">
 </a>
 
-<h1 align="center">.github</h1>
-<p align="center">Soundise GitHub organization-wide files</p>
+<div align="center">
+  <h1>.github</h1>
+  <b>Soundise GitHub organization-wide files</b>
+</div>
